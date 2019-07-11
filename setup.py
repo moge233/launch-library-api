@@ -7,6 +7,10 @@ Setup configuration file for the launch-library-api package.
 '''
 
 
+import os
+from setuptools import setup, find_packages
+
+
 _SHORT_DESCRIPTION = 'A simple wrapper for the Launch Library API.'
 
 
